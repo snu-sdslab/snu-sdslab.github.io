@@ -1,0 +1,18 @@
+---
+title: "SDS Lab Website Completed"
+subtitle: "Quarto-based Homepage Launch"
+author: "GIS Lab"
+date: "2026-02-28"
+categories: [Website, Announcements]
+image: "images/webhome.png"
+toc: false
+---
+
+![](images/webhome.png)
+
+## SDS Lab website Lanch
+
+The updated website now presents a complete overview of our research in Spatial Data Science, GeoAI, GIS, and Geospatial Analytics, including detailed project descriptions, publications, and team information.
+
+We hope this platform will serve as a clear and professional representation of our research activities and future directions.
+

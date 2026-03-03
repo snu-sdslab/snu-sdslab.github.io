@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "team.html#professor",
+    "href": "team.html#professor",
+    "title": "Team",
+    "section": "Professor",
+    "text": "Professor\n\n\n\n\n\nSang-Il Lee\nOffice: Room 319, Building 10, College of Education, Seoul National University\n🎓 Ph.D. in Geography, The Ohio State University\n🎓 M.A. in Geography Education, Seoul National University\n🎓 B.A. in Geography Education, Seoul National University\n\n📖 Research Interests\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education"
+  },
+  {
+    "objectID": "team.html#graduate-students",
+    "href": "team.html#graduate-students",
+    "title": "SDS Lab",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nHyekyeong Nam\nM.A. Student\n\nEmail: nhk675@snu.ac.kr\nResearch Interests: Spatial Data Science\nPersonal Website\n\n\n\n\n\n\n\n\nWoohyung Kim\nM.A. Student\n\nEmail: whk3423@snu.ac.kr\nResearch Interests: Spatial Data Science, GeoAI\nPersonal Website\n\n\n\n\n\n\n\n\nMinseop Jeong\nM.A. Student\n\nEmail: jms7061@snu.ac.kr\nResearch Interests: Population Geography\nPersonal Website\n\n\n\n\n\n\n\n\nSeowoo Park\nM.A. Student\n\nEmail: seowoo0805@snu.ac.kr\nResearch Interests: Spatial Data Science, Spatial Statistics\nPersonal Website"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nRecent Graduates\n\nHyemin Jeon (M.A., 2025)\nSechang Kim (M.A., 2023): Ph.D. Student at University of Washington"
+  },
+  {
+    "objectID": "team.html#join-our-lab",
+    "href": "team.html#join-our-lab",
+    "title": "Team",
+    "section": "Join Our Lab",
+    "text": "Join Our Lab\nIf you are interested in joining our lab, please feel free to contact us!\nContact: si_lee@snu.ac.kr"
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html",
+    "href": "news/posts/2025-06-27-website-open.html",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  },
+  {
+    "objectID": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "href": "news/posts/2025-06-27-website-open.html#a-new-beginning",
+    "title": "GIS Lab Website Opened!",
+    "section": "",
+    "text": "Hello! The SNU GIS Lab website has been newly launched.\nThe website was built with Quarto by Woohyung Kim, a master’s student in the lab."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Data Science Lab",
+    "section": "",
+    "text": "Seoul National University\n\n  Spatial Data Science Lab\n\n  \n    Advancing spatial data science and analytics\n  \n\n\n\n\n\n\n  Team\n  Meet our lab members and research interests.\n\n\n  Projects\n  Ongoing research projects and collaborations.\n\n\n  Publications\n  Papers, talks, posters, and technical reports.\n\n\n  News\n  Updates, announcements, and highlights.\n\n\n\n\nNews\n\n\n\n\n\nSDS Lab Website Completed\n\n\n\n\n\n\n\n\nFeb 28, 2026\n\n\n\n\n\n\n\nThe 2025 Korean Geography Conference\n\n\n\n\n\n\n\n\nJun 28, 2025\n\n\n\n\n\n\n\nGIS Lab Website Opened!\n\n\n\n\n\n\n\n\nJun 27, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Check out the latest news and major updates from our lab!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSDS Lab Website Completed\n\n\nQuarto-based Homepage Launch\n\n\n\n\n\n\n\n\nFeb 28, 2026\n\n\nGIS Lab\n\n\n\n\n\n\n\n\n\n\n\n\nThe 2025 Korean Geography Conference\n\n\nHyemin presented her Master’s Thesis at Conference!\n\n\n\n\n\n\n\n\nJun 28, 2025\n\n\nGIS Lab\n\n\n\n\n\n\n\n\n\n\n\n\nGIS Lab Website Opened!\n\n\nNew Quarto-based Homepage Launch\n\n\n\n\n\n\n\n\nJun 27, 2025\n\n\nGIS Lab\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/index.html#latest-news-posts",
+    "href": "news/index.html#latest-news-posts",
+    "title": "News & Updates",
+    "section": "📰 Latest News Posts",
+    "text": "📰 Latest News Posts"
+  },
+  {
+    "objectID": "news/posts/2025-06-28-korean-geography-conference.html",
+    "href": "news/posts/2025-06-28-korean-geography-conference.html",
+    "title": "The 2025 Korean Geography Conference",
+    "section": "",
+    "text": "At the 2025 Korean Geography Conference held on June 27–28, our lab’s master’s degree candidate, Hyemin, presented her thesis titled “Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering.” Congratulations to her, and we wish her all the best after graduation!"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Team",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "members.html#professor",
+    "href": "members.html#professor",
+    "title": "Team",
+    "section": "",
+    "text": "Professor\n\nEmail: si_lee@snu.ac.kr\nOffice: Room 319, Building 10, College of Education, Seoul National University\nResearch Interests:\n\nSpatial Data Science\n\nSpatial Data Analysis and Spatial Statistics\n\nCartography and GeoVisualization\n\nGeographic Information Systems (GIS)\n\nPopulation Geography and Spatial Demography\n\nGeography of Education\n\nEducation:\n\nPh.D. in Geography, The Ohio State University\n\nM.A. in Geography Education, Seoul National University\n\nB.A. in Geography Education, Seoul National University"
+  },
+  {
+    "objectID": "members.html#graduate-students",
+    "href": "members.html#graduate-students",
+    "title": "Team",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nHyekyeong Nam\nM.A. Student\n\nEmail: nhk675@snu.ac.kr\nResearch Interests: Spatial Data Science\nPersonal Website\n\n\n\n\n\n\n\n\nWoohyung Kim\nM.A. Student\n\nEmail: whk3423@snu.ac.kr\nResearch Interests: Spatial Data Science, GeoAI\nPersonal Website\n\n\n\n\n\n\n\n\nMinseop Jeong\nM.A. Student\n\nEmail: jms7061@snu.ac.kr\nResearch Interests: Population Geography\nPersonal Website\n\n\n\n\n\n\n\n\nSeowoo Park\nM.A. Student\n\nEmail: seowoo0805@snu.ac.kr\nResearch Interests: Spatial Data Science, Spatial Statistics\nPersonal Website"
+  },
+  {
+    "objectID": "members.html#alumni",
+    "href": "members.html#alumni",
+    "title": "Team",
+    "section": "Alumni",
+    "text": "Alumni\n\nRecent Graduates\n\nHyemin Jeon (M.A., 2025)\nSechang Kim (M.A., 2023): Ph.D. Student at University of Washington"
+  },
+  {
+    "objectID": "members.html#join-our-lab",
+    "href": "members.html#join-our-lab",
+    "title": "Team",
+    "section": "Join Our Lab",
+    "text": "Join Our Lab\nIf you are interested in joining our lab, please feel free to contact us!\nContact: si_lee@snu.ac.kr"
+  },
+  {
+    "objectID": "team.html#pi",
+    "href": "team.html#pi",
+    "title": "Team",
+    "section": "",
+    "text": "&lt;img src=\"images/professor.png\" alt=\"PI portrait\"&gt;\n\n\n&lt;div class=\"pi-role\"&gt;PI / Principal Investigator&lt;/div&gt;\n&lt;div class=\"pi-name\"&gt;\n  &lt;span class=\"pi-name-ko\"&gt;이상일&lt;/span&gt;\n  &lt;span class=\"pi-name-en\"&gt;Sang-Il Lee&lt;/span&gt;\n&lt;/div&gt;\n\n&lt;div class=\"pi-affil\"&gt;\n  Professor, Department of Geography Education, SNU\n&lt;/div&gt;\n\n&lt;ul class=\"pi-lines\"&gt;\n  &lt;li&gt;Ph.D. in Geography, The Ohio State University / Mila&lt;/li&gt;\n  &lt;li&gt;M.A. in Geography Education, Seoul National University&lt;/li&gt;\n  &lt;li&gt;B.A. in Geography Education, Seoul National University&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;div class=\"icon-row\"&gt;\n  &lt;a class=\"icon-btn\" href=\"mailto: si_lee@snu.ac.kr\" aria-label=\"Email\"&gt;\n    &lt;!-- mail icon --&gt;\n    &lt;svg viewBox=\"0 0 24 24\" class=\"icon\" aria-hidden=\"true\"&gt;\n      &lt;path d=\"M4 6h16v12H4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"/&gt;\n      &lt;path d=\"M4 7l8 6 8-6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\"/&gt;\n    &lt;/svg&gt;\n  &lt;/a&gt;\n\n  &lt;a class=\"icon-btn\" href=\"https://sangillee.snu.ac.kr/\" target=\"_blank\" rel=\"noopener\" aria-label=\"Website\"&gt;\n    &lt;!-- link icon --&gt;\n    &lt;svg viewBox=\"0 0 24 24\" class=\"icon\" aria-hidden=\"true\"&gt;\n      &lt;path d=\"M10 13a5 5 0 0 1 0-7l1.2-1.2a5 5 0 0 1 7 7L17 13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"/&gt;\n      &lt;path d=\"M14 11a5 5 0 0 1 0 7L12.8 19.2a5 5 0 0 1-7-7L7 11\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"/&gt;\n    &lt;/svg&gt;\n  &lt;/a&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "team.html#master-students",
+    "href": "team.html#master-students",
+    "title": "Team",
+    "section": "Master Students",
+    "text": "Master Students\n\n\n\n\n\nHyekyeong Nam\n\n\nM.A. Student\n\n\nSpatial Data Science\n\n\n     \n\n\n\n\n\n\n\nWoohyung Kim\n\n\nM.A. Student\n\n\nSpatial Data Science GeoAI\n\n\n     \n\n\n\n\n\n\n\nMinseop Jeong\n\n\nM.A. Student\n\n\nPopulation Geography\n\n\n     \n\n\n\n\n\n\n\nSeowoo Park\n\n\nM.A. Student\n\n\nSpatial Data Science Remote sensing\n\n\n     \n\n\n\n\n\n\n\nSori Yun\n\n\nM.A. Student\n\n\nSpatial Data Science\n\n\n     \n\n\n\n\n\n\n\nDai Yifan\n\n\nM.A. Student\n\n\nGIS Machine Learning"
+  },
+  {
+    "objectID": "team.html#master-students-1",
+    "href": "team.html#master-students-1",
+    "title": "SDS Lab",
+    "section": "Master Students",
+    "text": "Master Students"
+  },
+  {
+    "objectID": "team.html#master-students-2",
+    "href": "team.html#master-students-2",
+    "title": "SDS Lab",
+    "section": "Master Students",
+    "text": "Master Students\n\n\n\n\n\nHyekyeong Nam\n\n\nM.A. Student\n\n\nEmail: nhk675@snu.ac.kr\n\n\n\n\n\n\n\nWoohyung Kim\n\n\nM.A. Student\n\n\nEmail: whk3423@snu.ac.kr"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A Professional Development Program for Enhancing Geography Teachers’ AI–Digital Competence Based on the TPACK–DBL Framework - Development and Application of Interactive Teaching–Learning Web Apps - \n\n\n[2025] Sang-Il Lee, Soyoung Lee\n\n\nTPACK-DBL AI–digital competence geography education\n\n\n\n\n An Extension of Migration Effectiveness Indices: Accounting for the Impact of Migration on Population Structure \n\n\n[2025] Sechang Kim, Sang-Il Lee\n\n\n\n\n Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers \n\n\n[2025] 이상일, 고보경, 고준보, 김세창, 김우형, 임철일\n\n\ndigital competency pre-service teachers social studies education\n\n\n\n\n A Multi-Scale Analysis of Age-Specific Migration Unidirectionality in South Korea \n\n\n[2024] Sang-Il Lee, Soyoung Lee, Sechang Kim\n\n\n인구이동 편향성 연령-특수적 인구이동 유효도 지수 다중스케일\n\n\n\n\n The Variety and Complementarity of Migration Data in South Korea: A Comparison of Resident Register and Register-Based Census Data \n\n\n[2024] Sang-Il Lee, Deaheon Cho\n\n\nmigration data resident register register-based census"
+  },
+  {
+    "objectID": "projects.html#journal-articles",
+    "href": "projects.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "A Professional Development Program for Enhancing Geography Teachers’ AI–Digital Competence Based on the TPACK–DBL Framework - Development and Application of Interactive Teaching–Learning Web Apps - \n\n\n[2025] Sang-Il Lee, Soyoung Lee\n\n\nTPACK-DBL AI–digital competence geography education\n\n\n\n\n An Extension of Migration Effectiveness Indices: Accounting for the Impact of Migration on Population Structure \n\n\n[2025] Sechang Kim, Sang-Il Lee\n\n\n\n\n Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers \n\n\n[2025] 이상일, 고보경, 고준보, 김세창, 김우형, 임철일\n\n\ndigital competency pre-service teachers social studies education\n\n\n\n\n A Multi-Scale Analysis of Age-Specific Migration Unidirectionality in South Korea \n\n\n[2024] Sang-Il Lee, Soyoung Lee, Sechang Kim\n\n\n인구이동 편향성 연령-특수적 인구이동 유효도 지수 다중스케일\n\n\n\n\n The Variety and Complementarity of Migration Data in South Korea: A Comparison of Resident Register and Register-Based Census Data \n\n\n[2024] Sang-Il Lee, Deaheon Cho\n\n\nmigration data resident register register-based census"
+  },
+  {
+    "objectID": "projects.html#theses",
+    "href": "projects.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\n\n Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering \n\n\n(M.A. Thesis, 2025) Heamin Jeon\n\n\n그래프 딥러닝 그래프 트랜스포머\n\n\n\n\n A Study on Internal Migration Modeling based on the Spatial Demographic Perspective: Utilizing Cross-Classified Multilevel Model \n\n\n(M.A. Thesis, 2024) Sechang Kim\n\n\n공간인구학 교차분류 다수준 모형"
+  },
+  {
+    "objectID": "projects.html#conference-presentations",
+    "href": "projects.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n\n Presentation Title Example \n\n\nConference Name, 2025 — Presenter Name\n\n\nPoster Conference"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A Professional Development Program for Enhancing Geography Teachers’ AI–Digital Competence Based on the TPACK–DBL Framework  - Development and Application of Interactive Teaching–Learning Web Apps \n\n\n[2025] Sang-Il Lee, Soyoung Lee\n\n\nTPACK-DBL AI–digital competence geography education\n\n\n\n\n An Extension of Migration Effectiveness Indices: Accounting for the Impact of Migration on Population Structure \n\n\n[2025] Sechang Kim, Sang-Il Lee\n\n\n\n\n Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers \n\n\n[2025] 이상일, 고보경, 고준보, 김세창, 김우형, 임철일\n\n\ndigital competency pre-service teachers social studies education\n\n\n\n\n A Multi-Scale Analysis of Age-Specific Migration Unidirectionality in South Korea \n\n\n[2024] Sang-Il Lee, Soyoung Lee, Sechang Kim\n\n\n인구이동 편향성 연령-특수적 인구이동 유효도 지수 다중스케일\n\n\n\n\n The Variety and Complementarity of Migration Data in South Korea: A Comparison of Resident Register and Register-Based Census Data \n\n\n[2024] Sang-Il Lee, Deaheon Cho\n\n\nmigration data resident register register-based census"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n\n A Professional Development Program for Enhancing Geography Teachers’ AI–Digital Competence Based on the TPACK–DBL Framework  - Development and Application of Interactive Teaching–Learning Web Apps \n\n\n[2025] Sang-Il Lee, Soyoung Lee\n\n\nTPACK-DBL AI–digital competence geography education\n\n\n\n\n An Extension of Migration Effectiveness Indices: Accounting for the Impact of Migration on Population Structure \n\n\n[2025] Sechang Kim, Sang-Il Lee\n\n\n\n\n Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers \n\n\n[2025] 이상일, 고보경, 고준보, 김세창, 김우형, 임철일\n\n\ndigital competency pre-service teachers social studies education\n\n\n\n\n A Multi-Scale Analysis of Age-Specific Migration Unidirectionality in South Korea \n\n\n[2024] Sang-Il Lee, Soyoung Lee, Sechang Kim\n\n\n인구이동 편향성 연령-특수적 인구이동 유효도 지수 다중스케일\n\n\n\n\n The Variety and Complementarity of Migration Data in South Korea: A Comparison of Resident Register and Register-Based Census Data \n\n\n[2024] Sang-Il Lee, Deaheon Cho\n\n\nmigration data resident register register-based census"
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\n\n Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering \n\n\n[M.A. Thesis, 2025] Heamin Jeon\n\n\n그래프 딥러닝 그래프 트랜스포머\n\n\n\n\n A Study on Internal Migration Modeling based on the Spatial Demographic Perspective: Utilizing Cross-Classified Multilevel Model \n\n\n[M.A. Thesis, 2024] Sechang Kim\n\n\n공간인구학 교차분류 다수준 모형"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\n\n Presentation Title Example \n\n\nConference Name, 2025 — Presenter Name\n\n\nPoster Conference"
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Projects",
+    "section": "2026",
+    "text": "2026\n\n\n\n\n\n\nMicro-Degree Winter Professional Development Program  · 2026\n\n\nParticipated in a collaborative winter professional development program jointly organized by the Seoul National University Learning Sciences Institute and the Seoul Metropolitan Office of Education. The program focused on designing and developing interactive dashboards that can be directly implemented in classroom instruction.\n\n\nOrganized by: Seoul National University Learning Sciences Institute (서울대학교 학습과학연구소)  Seoul Metropolitan Office of Education (서울특별시교육청)"
+  },
+  {
+    "objectID": "projects.html#section-1",
+    "href": "projects.html#section-1",
+    "title": "Projects",
+    "section": "2025",
+    "text": "2025\n\n\n\n\n\n\nThe National Atlas of Korea  · 2024–2025\n\n\nParticipated in the development of interactive web-based atlas content for The National Atlas of Korea. Responsible for building interactive thematic maps and user-driven map interaction components, and for preparing national-scale geospatial data for web deployment.\n\n\nOrganized by: National Geographic Information Institute (국토지리정보원)"
+  },
+  {
+    "objectID": "projects.html#section-2",
+    "href": "projects.html#section-2",
+    "title": "Projects",
+    "section": "2024",
+    "text": "2024\n\n\n\n\n\n\nThe National Atlas of Korea  · 2024–2025\n\n\nParticipated in the development of interactive web-based atlas content for The National Atlas of Korea. Responsible for building interactive thematic maps and user-driven map interaction components, and for preparing national-scale geospatial data for web deployment.\n\n\nOrganized by: National Geographic Information Institute (국토지리정보원)"
+  },
+  {
+    "objectID": "news/posts/2026-02-28-SDS-Lab-Website-Release.html#sds-lab-website-lanch",
+    "href": "news/posts/2026-02-28-SDS-Lab-Website-Release.html#sds-lab-website-lanch",
+    "title": "SDS Lab Website Completed",
+    "section": "SDS Lab website Lanch",
+    "text": "SDS Lab website Lanch\nThe updated website now presents a complete overview of our research in Spatial Data Science, GeoAI, GIS, and Geospatial Analytics, including detailed project descriptions, publications, and team information.\nWe hope this platform will serve as a clear and professional representation of our research activities and future directions."
+  }
+]

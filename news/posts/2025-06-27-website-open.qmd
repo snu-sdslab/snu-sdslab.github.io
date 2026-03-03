@@ -1,0 +1,16 @@
+---
+title: "GIS Lab Website Opened!"
+subtitle: "New Quarto-based Homepage Launch"
+author: "GIS Lab"
+date: "2025-06-27"
+categories: [Website, Announcements]
+image: "images/main_header.png"
+toc: false
+---
+
+
+## 🎉 A New Beginning
+
+Hello! The SNU GIS Lab website has been newly launched.
+
+The website was built with [Quarto](https://quarto.org/) by Woohyung Kim, a master's student in the lab.

@@ -1,0 +1,26 @@
+---
+title: "News"
+title-block: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+  feed: true
+page-layout: full
+---
+
+::: {.page-banner}
+![](images/news.png){.page-banner-img alt="news"}
+:::
+
+
+::: {.content-summary}
+Check out the latest news and major updates from our lab!
+:::
+
+---
+
+<!-- Posts from the posts/ directory will be automatically displayed below -->

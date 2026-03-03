@@ -1,0 +1,141 @@
+---
+title: "Publications"
+title-block: false
+toc: false
+page-layout: full
+---
+
+::: {.page-banner}
+![](images/publication.png){.page-banner-img alt="Publications"}
+:::
+
+
+## Journal Articles
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003271852" target="_blank" rel="noopener">
+A Professional Development Program for Enhancing Geography Teachers’ AI–Digital Competence Based on the TPACK–DBL Framework </br>
+- Development and Application of Interactive Teaching–Learning Web Apps
+</a>
+</div>
+<div class="pub-authors">
+[2025] Sang-Il Lee, Soyoung Lee
+</div>
+<div class="pub-tags">
+<span class="pub-tag">TPACK-DBL</span>
+<span class="pub-tag">AI–digital competence</span>
+<span class="pub-tag">geography education</span>
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/psp.70049" target="_blank" rel="noopener">
+An Extension of Migration Effectiveness Indices: Accounting for the Impact of Migration on Population Structure
+</a>
+</div>
+<div class="pub-authors">
+[2025] Sechang Kim, Sang-Il Lee
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003188332" target="_blank" rel="noopener">
+Development of a programming-based instructional program to enhance digital competency of pre-service social studies teachers
+</a>
+</div>
+<div class="pub-authors">
+[2025] 이상일,  고보경,  고준보,  김세창,  김우형,  임철일
+</div>
+<div class="pub-tags">
+<span class="pub-tag">digital competency</span>
+<span class="pub-tag">pre-service teachers</span>
+<span class="pub-tag">social studies education</span>
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003188332" target="_blank" rel="noopener">
+A Multi-Scale Analysis of Age-Specific Migration Unidirectionality in South Korea
+</a>
+</div>
+<div class="pub-authors">
+[2024] Sang-Il Lee, Soyoung Lee, Sechang Kim
+</div>
+<div class="pub-tags">
+<span class="pub-tag">인구이동 편향성</span>
+<span class="pub-tag">연령-특수적 인구이동 유효도 지수</span>
+<span class="pub-tag">다중스케일</span>
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003188332" target="_blank" rel="noopener">
+The Variety and Complementarity of Migration Data in South Korea:
+A Comparison of Resident Register and Register-Based Census Data
+</a>
+</div>
+<div class="pub-authors">
+[2024] Sang-Il Lee, Deaheon Cho
+</div>
+<div class="pub-tags">
+<span class="pub-tag">migration data</span>
+<span class="pub-tag">resident register</span>
+<span class="pub-tag">register-based census</span>
+</div>
+</div>
+
+
+## Theses
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://s-space.snu.ac.kr/handle/10371/229465" target="_blank" rel="noopener">
+Regionalization of the Seoul Metropolitan Area Using Graph Transformer-Based Representation Learning and Spatially Constrained Clustering
+</a>
+</div>
+<div class="pub-authors">
+[M.A. Thesis, 2025] Heamin Jeon
+</div>
+<div class="pub-tags">
+<span class="pub-tag">그래프 딥러닝</span>
+<span class="pub-tag">그래프 트랜스포머</span>
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="https://s-space.snu.ac.kr/handle/10371/210502" target="_blank" rel="noopener">
+A Study on Internal Migration Modeling based on the Spatial Demographic Perspective: Utilizing Cross-Classified Multilevel Model
+</a>
+</div>
+<div class="pub-authors">
+[M.A. Thesis, 2024] Sechang Kim
+</div>
+<div class="pub-tags">
+<span class="pub-tag">공간인구학</span>
+<span class="pub-tag">교차분류 다수준 모형</span>
+</div>
+</div>
+
+
+## Conference Presentations
+
+<div class="pub-item">
+<div class="pub-title">
+<a href="SLIDES_OR_URL" target="_blank" rel="noopener">
+Presentation Title Example
+</a>
+</div>
+<div class="pub-authors">
+Conference Name, 2025 — Presenter Name
+</div>
+<div class="pub-tags">
+<span class="pub-tag">Poster</span>
+<span class="pub-tag">Conference</span>
+</div>
+</div>
