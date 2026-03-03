@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/
+
+website:
+  title: "SDS Lab"
+  description: "SDS Lab of the Department of Geography Education, Seoul National University"
+  favicon: images/seoul.png
+
+  navbar:
+    background: "#ffffff"
+    foreground: "#222222"
+    title: "SNU | SDS LAB"
+    logo: images/logo3.png
+    search: true
+    right:
+      - text: "TEAM"
+        href: team.qmd
+      - text: "PROJECTS"
+        href: projects.qmd
+      - text: "PUBLICATIONS"
+        href: publications.qmd
+      - text: "NEWS"
+        href: news/index.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true

@@ -1,0 +1,63 @@
+---
+title: ""
+title-block-banner: false
+toc: false
+
+listing:
+  id: latest-news
+  contents: news/posts/*.qmd
+  sort: "date desc"
+  type: default
+  max-items: 10
+  fields: [date, title, description]
+---
+
+::: {.home}
+
+::: {.hero}
+```{=html}
+<div class="hero-inner">
+
+  <div class="hero-eyebrow">Seoul National University</div>
+
+  <h1 class="hero-title">Spatial Data Science Lab</h1>
+
+  <p class="hero-subtitle">
+    Advancing spatial data science and analytics
+  </p>
+
+
+</div>
+```
+:::
+
+::: {.feature-grid .feature-grid-4}
+
+```{=html}
+<a class="feature-card" href="team.qmd">
+  <div class="feature-title">Team</div>
+  <div class="feature-desc">Meet our lab members and research interests.</div>
+</a>
+<a class="feature-card" href="projects.qmd">
+  <div class="feature-title">Projects</div>
+  <div class="feature-desc">Ongoing research projects and collaborations.</div>
+</a>
+<a class="feature-card" href="publications.qmd">
+  <div class="feature-title">Publications</div>
+  <div class="feature-desc">Papers, talks, posters, and technical reports.</div>
+</a>
+<a class="feature-card" href="news/index.qmd">
+  <div class="feature-title">News</div>
+  <div class="feature-desc">Updates, announcements, and highlights.</div>
+</a>
+```
+:::
+
+<br>
+
+# News
+
+::: {#latest-news}
+:::
+
+:::

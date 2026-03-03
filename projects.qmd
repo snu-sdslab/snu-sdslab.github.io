@@ -1,0 +1,88 @@
+---
+title: " "
+toc: false
+page-layout: full
+---
+
+::: {.page-banner}
+![](images/projects.png){.page-banner-img alt="projects"}
+:::
+
+## 2026
+
+<div class="project-item">
+
+<div class="project-logo">
+<img src="images/seoul.png" alt="SNU">
+</div>
+
+<div class="project-content">
+
+<div class="project-title">
+<strong>Micro-Degree Winter Professional Development Program</strong>
+<span class="project-meta"> · 2026</span>
+</div>
+
+<div class="project-desc">
+Participated in a collaborative winter professional development program jointly organized by the Seoul National University Learning Sciences Institute and the Seoul Metropolitan Office of Education. The program focused on designing and developing interactive dashboards that can be directly implemented in classroom instruction.
+</div>
+
+<div class="project-org">
+Organized by: Seoul National University Learning Sciences Institute (서울대학교 학습과학연구소) </br>
+Seoul Metropolitan Office of Education (서울특별시교육청)
+</div>
+</div>
+</div>
+
+## 2025
+
+
+<div class="project-item">
+
+<div class="project-logo">
+<img src="images/atlas.jpg" alt="National Geographic Information Institute">
+</div>
+
+<div class="project-content">
+
+<div class="project-title">
+<strong>The National Atlas of Korea</strong>
+<span class="project-meta"> · 2024–2025</span>
+</div>
+
+<div class="project-desc">
+Participated in the development of interactive web-based atlas content for <em>The National Atlas of Korea</em>.
+Responsible for building interactive thematic maps and user-driven map interaction components, and for preparing national-scale geospatial data for web deployment.
+</div>
+
+<div class="project-org">
+Organized by: National Geographic Information Institute (국토지리정보원)
+</div>
+</div>
+</div>
+
+## 2024
+
+<div class="project-item">
+
+<div class="project-logo">
+<img src="images/atlas.jpg" alt="National Geographic Information Institute">
+</div>
+
+<div class="project-content">
+
+<div class="project-title">
+<strong>The National Atlas of Korea</strong>
+<span class="project-meta"> · 2024–2025</span>
+</div>
+
+<div class="project-desc">
+Participated in the development of interactive web-based atlas content for <em>The National Atlas of Korea</em>.
+Responsible for building interactive thematic maps and user-driven map interaction components, and for preparing national-scale geospatial data for web deployment.
+</div>
+
+<div class="project-org">
+Organized by: National Geographic Information Institute (국토지리정보원)
+</div>
+</div>
+</div>

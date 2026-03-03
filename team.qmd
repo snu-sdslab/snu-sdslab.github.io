@@ -1,0 +1,151 @@
+---
+title: " "
+toc: false
+page-layout: full
+---
+
+::: {.team-hero-card}
+![](images/photo_20251119.jpg){.team-hero-img alt="단체사진"}
+:::
+
+
+## Professor
+
+::: {.professor-layout}
+
+<div class="prof-left">
+  <img src="images/professor1.png" class="prof-photo" alt="Professor">
+</div>
+
+<div class="prof-right">
+
+### Sang-Il Lee
+
+**Office**: [Room 319, Building 10, College of Education, Seoul National University](https://www.google.com/maps?q=37.460373,126.955093)
+
+🎓 Ph.D. in Geography, The Ohio State University  
+🎓 M.A. in Geography Education, Seoul National University  
+🎓 B.A. in Geography Education, Seoul National University  
+
+#### 📖 Research Interests
+- Spatial Data Science  
+- Spatial Data Analysis and Spatial Statistics  
+- Cartography and GeoVisualization  
+- Geographic Information Systems (GIS)  
+- Population Geography and Spatial Demography  
+- Geography of Education  
+
+<div class="profile-icons">
+  <a href="https://scholar.google.com/citations?hl=ko&user=gb4QsEQAAAAJ" target="_blank">
+    <img src="images/Google_Scholar_logo.svg.png" class="icon-link" alt="Google Scholar">
+  </a>
+
+  <a href="https://sangillee.snu.ac.kr/" target="_blank">
+    <img src="images/homepage.png" class="icon-link" alt="Homepage">
+  </a>
+</div>
+
+</div>
+:::
+
+## Master Students
+
+<div class="member-grid">
+
+<div class="member-card">
+<img src="images/Nam.jpeg" class="member-photo" alt="Hyekyeong Nam">
+<div class="member-info">
+<h3>Hyekyeong Nam</h3>
+<div class="member-role">M.A. Student</div>
+<div class="badge-container">
+<span class="badge">Spatial Data Science</span>
+</div>
+
+<div class="member-icons">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nhk675@snu.ac.kr" target="_blank" aria-label="Email">
+<img src="images/mail2.png" class="member-icon" alt="Email">
+</a>
+<a href=" " target="_blank" aria-label="Homepage">
+<img src="images/homepage.png" class="member-icon" alt="Homepage">
+</a>
+</div>
+</div>
+</div>
+
+<div class="member-card">
+<img src="images/Kim.png" class="member-photo" alt="Woohyung Kim">
+<div class="member-info">
+<h3>Woohyung Kim</h3>
+<div class="member-role">M.A. Student</div>
+<div class="badge-container">
+<span class="badge">Spatial Data Science</span>
+<span class="badge">GeoAI</span>
+</div>
+
+<div class="member-icons">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=whk3423@snu.ac.kr" target="_blank" aria-label="Email">
+<img src="images/mail2.png" class="member-icon" alt="Email">
+</a>
+<a href="https://geowhk.github.io/" target="_blank" aria-label="Homepage">
+<img src="images/homepage.png" class="member-icon" alt="Homepage">
+</a>
+</div>
+</div>
+</div>
+
+<div class="member-card">
+<img src="images/Jeong.jpeg" class="member-photo" alt="Minseop Jeong">
+<div class="member-info">
+<h3>Minseop Jeong</h3>
+<div class="member-role">M.A. Student</div>
+<div class="badge-container">
+<span class="badge">Population Geography</span>
+</div>
+
+<div class="member-icons">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jms7061@snu.ac.kr" target="_blank" aria-label="Email">
+<img src="images/mail2.png" class="member-icon" alt="Email">
+</a>
+<a href=" " target="_blank" aria-label="Homepage">
+<img src="images/homepage.png" class="member-icon" alt="Homepage">
+</a>
+</div>
+</div>
+</div>
+
+<div class="member-card">
+<img src="images/Park.jpeg" class="member-photo" alt="Seowoo Park">
+<div class="member-info">
+<h3>Seowoo Park</h3>
+<div class="member-role">M.A. Student</div>
+<div class="badge-container">
+<span class="badge">Spatial Data Science</span>
+<span class="badge">Remote sensing</span>
+</div>
+
+<div class="member-icons">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=seowoo0805@snu.ac.kr" target="_blank" aria-label="Email">
+<img src="images/mail2.png" class="member-icon" alt="Email">
+</a>
+<a href="https://seowoo-85.github.io/" target="_blank" aria-label="Homepage">
+<img src="images/homepage.png" class="member-icon" alt="Homepage">
+</a>
+</div>
+</div>
+</div>
+
+</div>
+
+## Alumni
+
+### Recent Graduates
+
+- **Hyemin Jeon (M.A., 2025)**
+- **Sechang Kim (M.A., 2023)**: Ph.D. Student at University of Washington
+
+
+## Join Our Lab
+
+If you are interested in joining our lab, please feel free to contact us!
+
+**Contact**: [si_lee@snu.ac.kr](mailto:si_lee@snu.ac.kr)
