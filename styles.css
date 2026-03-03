@@ -19,6 +19,7 @@ a:hover {
   margin: 0 auto;
 }
 
+<<<<<<< HEAD
 /* Hide Quarto page title header (H1 generated from YAML title) */
 .quarto-title-block,
 #title-block-header,
@@ -28,6 +29,8 @@ a:hover {
   padding: 0 !important;
 }
 
+=======
+>>>>>>> c9c25136c8f36683ccdd3e83f1391a74a10a43f1
 /* =========================
    Slim Page Banner (Publications/News/Projects)
 ========================= */

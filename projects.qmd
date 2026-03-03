@@ -1,6 +1,10 @@
 ---
+<<<<<<< HEAD
 title: "Projects"
 title-block: false
+=======
+title: " "
+>>>>>>> c9c25136c8f36683ccdd3e83f1391a74a10a43f1
 toc: false
 page-layout: full
 ---
